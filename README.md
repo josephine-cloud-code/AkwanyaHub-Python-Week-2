@@ -170,17 +170,16 @@ Module 2 helped me understand how Python displays output, represents data, store
 
 ## Evidence to add
 
-Add screenshots of your **own** work before publishing this README:
-
 1. A code example using `print()`, `sep`, or `end`, with its output.
-2. A code example showing variables and data types.
-3. An arithmetic expression or shortcut-operator example and its output.
+2. <img width="1174" height="915" alt="Module 2 -Hello Python" src="https://github.com/user-attachments/assets/ed1f363a-5591-49c5-b00b-e577ee9ef365" />
 
-Replace this checklist with links to your screenshots once you upload them to a folder such as `screenshots/`.
+3. A code example showing variables and data types.
+4. <img width="1170" height="937" alt="Module 2-Variables" src="https://github.com/user-attachments/assets/fd369cdf-1e70-4868-9d21-b14350322aad" />
+<img width="1169" height="941" alt="Module 2- Var error" src="https://github.com/user-attachments/assets/7524bb37-b258-4de2-b21b-a62517a9bf10" />
 
-## Suggested repository description
-
-My notes and hands-on examples from Module 2 of the AkwanyaHub Python Essentials course.
+5. An arithmetic expression or shortcut-operator example and its output.
+<img width="1169" height="941" alt="Module 2- Var error" src="https://github.com/user-attachments/assets/95dc2e07-ff22-4d50-81c2-4f901f937150" />
+<img width="1174" height="940" alt="Module 2- Operators" src="https://github.com/user-attachments/assets/eb734df4-8bcc-4570-a710-6c8be7ee477d" />
 
 ## Tags
 
